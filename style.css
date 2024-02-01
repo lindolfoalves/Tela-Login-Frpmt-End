@@ -9,7 +9,7 @@ body {
 }
 
 body.bg_museu {
-    background-image: url(Assets/FPLYm0PTCcKxMLQoPbNP.jpg);
+    background-image: url(/FPLYm0PTCcKxMLQoPbNP.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 } 
